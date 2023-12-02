@@ -6,5 +6,5 @@ export default function Navbar() {
         <nav>
             <img src= {Airbnb} className="nav--logo" />
         </nav>
-    )
+    );
 }
