@@ -3,7 +3,7 @@ import Photogrid from "../images/photo-grid.png";
 
 export default function Hero() {
     return(
-        <section>
+        <section classname="hero">
             <img src={Photogrid} className="hero--photo" />
             <h1 className="hero--header">Online Experiences</h1>
             <p className="hero--text">Join unique interactive activities led by 
